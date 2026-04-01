@@ -118,9 +118,9 @@ evidence-grounded metrics (no ground-truth summaries required):
 
 | Model | Faithfulness ↑ | Cluster Coverage ↑ |
 |---|---|---|
-| Baseline RAG | 0.72 | 0.40 |
-| Supervised RAG | 0.80 | 0.56 |
-| **Supervised + Unsupervised RAG (Ours)** | **0.87** | **0.76** |
+| Baseline RAG | 0.71 | 0.59 |
+| Supervised RAG | 0.89 | 0.60 |
+| **Supervised + Unsupervised RAG (Ours)** | **0.93** | **0.64** |
 
 ### Supervised Classification (Table 2)
 
